@@ -6,8 +6,15 @@
     <description>Recent content on Mano Hugo Lab Projektas</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 May 2026 00:28:02 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 00:48:33 +0300</lastBuildDate>
     <atom:link href="https://noirfield.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apie mane</title>
+      <link>https://noirfield.github.io/apie/</link>
+      <pubDate>Sat, 23 May 2026 00:48:33 +0300</pubDate>
+      <guid>https://noirfield.github.io/apie/</guid>
+      <description>&lt;p&gt;Čia bus talpinama informacija apie mane. Tačiau jos dar nėra.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Antras įrašas</title>
       <link>https://noirfield.github.io/posts/antras/</link>
